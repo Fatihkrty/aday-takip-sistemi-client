@@ -36,7 +36,7 @@ Gerekli paketleri yükleyin
   yarn install
 ```
 
-Proje üzerinde `env.dev` dosyasının içindeki backend adresiniz ile değiştirin.
+Proje üzerinde `.env` dosyasının içindeki backend adresiniz ile değiştirin.
 
 Development modunda çalıştırmak için:
 
