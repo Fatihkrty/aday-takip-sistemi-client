@@ -1,6 +1,6 @@
 # Aday Takip Sistemi Client
 
-Bu proje hakkında detaylı bilgilere [Aday Takip Sistemi](https://github.com/Fatihkrty) repo adresi üzerinden erişebilirsiniz.
+Bu proje hakkında detaylı bilgilere [Aday Takip Sistemi](https://github.com/Fatihkrty/aday-takip-sistemi) repo adresi üzerinden erişebilirsiniz.
 
 ## Kullanılan Teknolojiler
 
