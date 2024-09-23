@@ -21,7 +21,7 @@ Proje `typescript` ile `NextJs` ve `Material UI` kullanılarak geliştirilmişti
 Projeyi klonlayın
 
 ```bash
-  git clone [proje-github-linki]
+  git clone git@github.com:Fatihkrty/aday-takip-sistemi-client.git
 ```
 
 Proje dizinine gidin
